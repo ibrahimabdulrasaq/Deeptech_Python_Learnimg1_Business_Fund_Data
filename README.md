@@ -1,7 +1,4 @@
-# Deeptech_Python_Learnimg1_Business_Fund_Data
-This repository demonstrates how I cleaned business funding data in Python as part of my learning journey as a 3MTT fellow
-
-# 🧹 Business Funding Data Cleaning & Preparation (Python)
+# 🧹 Business Funding Data Cleaning & Preparation (Python) - Deeptech
 
 ## 📌 Project Overview
 
@@ -130,7 +127,7 @@ The dataset includes the following key fields:
 
 ## 📸 Preview
 
-(Add screenshots of your notebook output here)
+<img width="1920" height="1080" alt="Business Funding Data Cleaning" src="https://github.com/user-attachments/assets/b767a418-deef-42a5-8f73-1d1db33a5ffa" />
 
 ---
 
@@ -145,6 +142,5 @@ The dataset includes the following key fields:
 
 ## 💡 Author
 
-Ibrahim 
-Data & BI Analyst
+Ibrahim Abdulrasaq | Data & BI Analyst
 
